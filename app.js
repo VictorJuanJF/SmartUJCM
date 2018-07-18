@@ -14,6 +14,8 @@ const colors=require('./colors');
 
 pg.defaults.ssl=true;
 
+//SmartUJCM
+
 
 
 // Messenger API parameters
